@@ -1,0 +1,1486 @@
+
+https://developer.yoast.com/blog/road-to-yoast-seo-3-0/#comments
+https://developer.yoast.com/blog/saving-time-with-git-hooks/
+https://developer.yoast.com/blog/schema-documentation/
+https://developer.yoast.com/blog/tag/conferences/
+https://developer.yoast.com/blog/tag/php/
+https://developer.yoast.com/blog/tag/release-post/
+https://developer.yoast.com/blog/tag/schema-org/
+https://developer.yoast.com/blog/tag/software-yoast-seo-wordpress/
+https://developer.yoast.com/blog/tag/wordcamp/
+https://developer.yoast.com/blog/tag/wordpress/
+https://developer.yoast.com/blog/tag/yoast-seo-14-0/
+https://developer.yoast.com/blog/tag/yoast-test-helper/
+https://developer.yoast.com/blog/the-exciting-new-technology-that-is-indexables/
+https://developer.yoast.com/blog/the-exciting-new-technology-that-is-indexables/#comments
+https://developer.yoast.com/blog/theming-gutenberg-the-howto-block/
+https://developer.yoast.com/blog/upcoming-release-yoast-seo-14-0-indexables/
+https://developer.yoast.com/blog/upcoming-release-yoast-seo-14-0-indexables/#comments
+https://developer.yoast.com/blog/working-with-feature-branches-and-feature-flags/
+https://developer.yoast.com/blog/yoast-seo-14-0-adding-metadata/
+https://developer.yoast.com/blog/yoast-seo-14-0-adding-metadata/#comments
+https://developer.yoast.com/blog/yoast-seo-14-0-changing-the-yoast-schema-api/
+https://developer.yoast.com/blog/yoast-seo-14-0-using-yoast-seo-surfaces/
+https://developer.yoast.com/blog/yoast-seo-14-0-using-yoast-seo-surfaces/#comments
+https://developer.yoast.com/blog/yoast-seo-14-0-x/
+https://developer.yoast.com/blog/yoast-seo-14-0-x/#comments
+https://developer.yoast.com/blog/yoast-seo-breaking-api-changes/
+https://developer.yoast.com/blog/yoast-seo-breaking-api-changes/#comments
+https://developer.yoast.com/blog/yoast-seo-developer-beta/
+https://developer.yoast.com/blog/yoast-seo-rest-api-endpoint/
+https://developer.yoast.com/blog/yoast-seo-rest-api-endpoint/#comments
+https://developer.yoast.com/blog/yoast-seo-wp-cli-index-command/
+https://developer.yoast.com/blog/yoast-seo-wp-cli-index-command/#comments
+https://developer.yoast.com/blog/yoast-test-helper-easy-testing/
+https://developer.yoast.com/blog/yoast-test-helper-easy-testing/#comments
+https://developer.yoast.com/blog/yoastseo-js-design-decisions/
+https://kb.yoast.com
+https://kb.yoast.com/kb/installation-guide-for-wordpress-seo/
+https://my.yoast.com/
+https://my.yoast.com/  
+https://www.ugc.ac.in/page/Videos-Regarding-Ragging.aspx   
+https://yoast.com 
+https://yoast.com  
+https://yoast.com/# 
+https://yoast.com/#!
+https://yoast.com/#About Us
+https://yoast.com/#Contact
+https://yoast.com/#Members
+https://yoast.com/#Organizing Committee
+https://yoast.com/#Registration
+https://yoast.com/#Topics
+https://yoast.com/#Venue
+https://yoast.com/#about
+https://yoast.com/#act
+https://yoast.com/#actions
+https://yoast.com/#add
+https://yoast.com/#advanced_citation_building
+https://yoast.com/#align
+https://yoast.com/#alt
+https://yoast.com/#alternative
+https://yoast.com/#always
+https://yoast.com/#analytics
+https://yoast.com/#analyze
+https://yoast.com/#architecture
+https://yoast.com/#assessing
+https://yoast.com/#assessment
+https://yoast.com/#attributes
+https://yoast.com/#beaconyoastseo
+https://yoast.com/#bing
+https://yoast.com/#blog-engagement
+https://yoast.com/#breadcrumbs
+https://yoast.com/#browser
+https://yoast.com/#build-actions
+https://yoast.com/#caption
+https://yoast.com/#cause
+https://yoast.com/#characteristics
+https://yoast.com/#checklist
+https://yoast.com/#citation
+https://yoast.com/#citations_in_local_algorithm_future
+https://yoast.com/#coming
+https://yoast.com/#comment-18089864
+https://yoast.com/#comment-18090375
+https://yoast.com/#comment-18092013
+https://yoast.com/#comment-18093648
+https://yoast.com/#comment-18093907
+https://yoast.com/#comment-18093962
+https://yoast.com/#comment-18093968
+https://yoast.com/#comment-18093974
+https://yoast.com/#comment-18094062
+https://yoast.com/#comment-18094312
+https://yoast.com/#comment-18094333
+https://yoast.com/#comment-18096004
+https://yoast.com/#comment-18096497
+https://yoast.com/#comment-18096633
+https://yoast.com/#comment-18097116
+https://yoast.com/#comment-18097126
+https://yoast.com/#comment-18099441
+https://yoast.com/#comment-18100300
+https://yoast.com/#comment-18100399
+https://yoast.com/#comment-18100486
+https://yoast.com/#comment-18100588
+https://yoast.com/#comment-18100709
+https://yoast.com/#comment-18100711
+https://yoast.com/#comment-18101973
+https://yoast.com/#comment-18102388
+https://yoast.com/#comment-18103265
+https://yoast.com/#comment-18103536
+https://yoast.com/#comment-18103604
+https://yoast.com/#comment-18104193
+https://yoast.com/#comment-18104248
+https://yoast.com/#comment-18104292
+https://yoast.com/#comment-18104324
+https://yoast.com/#comment-18104382
+https://yoast.com/#comment-18104562
+https://yoast.com/#comment-18105262
+https://yoast.com/#comment-18105412
+https://yoast.com/#comment-18106933
+https://yoast.com/#comment-18107606
+https://yoast.com/#comment-18107747
+https://yoast.com/#comment-18107788
+https://yoast.com/#comment-18107789
+https://yoast.com/#comment-18107790
+https://yoast.com/#comment-18107791
+https://yoast.com/#comment-18107792
+https://yoast.com/#comment-18107793
+https://yoast.com/#comment-18107842
+https://yoast.com/#comment-18107855
+https://yoast.com/#comment-18107856
+https://yoast.com/#comment-18107857
+https://yoast.com/#comment-18107877
+https://yoast.com/#comment-18107878
+https://yoast.com/#comment-18107879
+https://yoast.com/#comment-18107888
+https://yoast.com/#comment-18107919
+https://yoast.com/#comment-18107930
+https://yoast.com/#comment-18107969
+https://yoast.com/#comment-18108175
+https://yoast.com/#comment-18108228
+https://yoast.com/#comment-18110503
+https://yoast.com/#comment-18111217
+https://yoast.com/#comment-18111218
+https://yoast.com/#comment-18111220
+https://yoast.com/#comment-18111227
+https://yoast.com/#comment-18111250
+https://yoast.com/#comment-18111272
+https://yoast.com/#comment-18115370
+https://yoast.com/#comment-18116177
+https://yoast.com/#comment-18116436
+https://yoast.com/#comment-18116791
+https://yoast.com/#comment-18117105
+https://yoast.com/#comment-18117559
+https://yoast.com/#comment-18117767
+https://yoast.com/#comment-36603
+https://yoast.com/#comment-36605
+https://yoast.com/#comment-36607
+https://yoast.com/#comment-36608
+https://yoast.com/#comment-36610
+https://yoast.com/#comment-36618
+https://yoast.com/#comment-36619
+https://yoast.com/#comment-36622
+https://yoast.com/#comment-36627
+https://yoast.com/#comment-36631
+https://yoast.com/#comment-36635
+https://yoast.com/#comment-36640
+https://yoast.com/#comment-36642
+https://yoast.com/#comment-36645
+https://yoast.com/#comment-36650
+https://yoast.com/#comment-36661
+https://yoast.com/#comment-36665
+https://yoast.com/#comment-36670
+https://yoast.com/#comment-36679
+https://yoast.com/#comment-36690
+https://yoast.com/#complementary
+https://yoast.com/#conclusion
+https://yoast.com/#contact-us
+https://yoast.com/#content-cannibalisation
+https://yoast.com/#content-planning
+https://yoast.com/#content-words
+https://yoast.com/#conversations
+https://yoast.com/#covid
+https://yoast.com/#data
+https://yoast.com/#data_aggregators
+https://yoast.com/#decide
+https://yoast.com/#dictionary
+https://yoast.com/#easy
+https://yoast.com/#edit-slug-wordpress
+https://yoast.com/#enhancements
+https://yoast.com/#error
+https://yoast.com/#error-list
+https://yoast.com/#errors
+https://yoast.com/#events
+https://yoast.com/#exact-match
+https://yoast.com/#exact-match-matters
+https://yoast.com/#exceptions
+https://yoast.com/#expect
+https://yoast.com/#expected
+https://yoast.com/#faq
+https://yoast.com/#faster
+https://yoast.com/#features
+https://yoast.com/#find
+https://yoast.com/#format
+https://yoast.com/#free
+https://yoast.com/#free-lesson
+https://yoast.com/#fresh_content
+https://yoast.com/#function-words
+https://yoast.com/#further-reading
+https://yoast.com/#google
+https://yoast.com/#google-remove
+https://yoast.com/#google-submit
+https://yoast.com/#google-submit-old
+https://yoast.com/#graph
+https://yoast.com/#graph-piece
+https://yoast.com/#groups
+https://yoast.com/#guest
+https://yoast.com/#home
+https://yoast.com/#how
+https://yoast.com/#how-to
+https://yoast.com/#identify-solve
+https://yoast.com/#implement
+https://yoast.com/#improve
+https://yoast.com/#improve-featured-snippets
+https://yoast.com/#index-coverage
+https://yoast.com/#industry_directories
+https://yoast.com/#insights
+https://yoast.com/#install
+https://yoast.com/#internal_linking
+https://yoast.com/#interviews
+https://yoast.com/#job-postings
+https://yoast.com/#kb
+https://yoast.com/#keep-an-eye
+https://yoast.com/#key_citation_attributes
+https://yoast.com/#keyphrase
+https://yoast.com/#keyword-research
+https://yoast.com/#local
+https://yoast.com/#local_directories
+https://yoast.com/#logos
+https://yoast.com/#maintaining
+https://yoast.com/#maintenance
+https://yoast.com/#marketing-blog
+https://yoast.com/#meta-description
+https://yoast.com/#meta-descriptions-for-a-lot-of-pages
+https://yoast.com/#metrics
+https://yoast.com/#minimal-adjustments
+https://yoast.com/#mobile-usability
+https://yoast.com/#monetizing-blog
+https://yoast.com/#more
+https://yoast.com/#moved-classes
+https://yoast.com/#multiple
+https://yoast.com/#name
+https://yoast.com/#needle
+https://yoast.com/#neighborhood
+https://yoast.com/#no-exact-match
+https://yoast.com/#optimize
+https://yoast.com/#original-content
+https://yoast.com/#other
+https://yoast.com/#outlier
+https://yoast.com/#page
+https://yoast.com/#paid_citation_services
+https://yoast.com/#ping
+https://yoast.com/#posts
+https://yoast.com/#practical-tips
+https://yoast.com/#premium
+https://yoast.com/#prepare
+https://yoast.com/#products
+https://yoast.com/#readable-content
+https://yoast.com/#regional
+https://yoast.com/#related-keywords
+https://yoast.com/#relevance
+https://yoast.com/#respond
+https://yoast.com/#responsive
+https://yoast.com/#results
+https://yoast.com/#retrieve-from-index
+https://yoast.com/#rich-results
+https://yoast.com/#scale
+https://yoast.com/#schema-ids
+https://yoast.com/#schema-image-changes
+https://yoast.com/#search-intent
+https://yoast.com/#security
+https://yoast.com/#seo
+https://yoast.com/#server
+https://yoast.com/#setting-up
+https://yoast.com/#setting-up-new-blog
+https://yoast.com/#showcase
+https://yoast.com/#site-structure
+https://yoast.com/#sitelinks
+https://yoast.com/#sitemaps
+https://yoast.com/#size
+https://yoast.com/#slug
+https://yoast.com/#slugs-seo
+https://yoast.com/#social-local-basics
+https://yoast.com/#social-local-longer-tail
+https://yoast.com/#social-media-newsletters
+https://yoast.com/#social_media
+https://yoast.com/#solution
+https://yoast.com/#speakable
+https://yoast.com/#speakers
+https://yoast.com/#special
+https://yoast.com/#step-1
+https://yoast.com/#step-2
+https://yoast.com/#step-3
+https://yoast.com/#step-4
+https://yoast.com/#step-5
+https://yoast.com/#step-6
+https://yoast.com/#structured
+https://yoast.com/#submit
+https://yoast.com/#synonyms-example
+https://yoast.com/#target
+https://yoast.com/#technical_tasks
+https://yoast.com/#test
+https://yoast.com/#time-investment
+https://yoast.com/#topical
+https://yoast.com/#topics
+https://yoast.com/#trends
+https://yoast.com/#troubleshooting
+https://yoast.com/#try
+https://yoast.com/#unstructured_citations
+https://yoast.com/#url-inspection
+https://yoast.com/#value-of-voice
+https://yoast.com/#vendors
+https://yoast.com/#version
+https://yoast.com/#video
+https://yoast.com/#what
+https://yoast.com/#what-can-i-find
+https://yoast.com/#what-is-google-search-console
+https://yoast.com/#what-is-structured-data
+https://yoast.com/#what-is-the-enhancement-report
+https://yoast.com/#what-should-you-blog-about
+https://yoast.com/#what-will-i-learn
+https://yoast.com/#where
+https://yoast.com/#where_to_get_citations
+https://yoast.com/#why
+https://yoast.com/#why-blog
+https://yoast.com/#word-forms
+https://yoast.com/#word-forms-example
+https://yoast.com/#write-high-quality-blog-post
+https://yoast.com/#write-keyphrase-in-meta-description
+https://yoast.com/#yandex
+https://yoast.com/#yoast
+https://yoast.com/#yoast-or-not
+https://yoast.com/#yoast-seo-and-structured-data
+https://yoast.com/10-years-yoast-webinar-recap/
+https://yoast.com/15-advanced-link-building-tactics/
+https://yoast.com/15-questions-about-ranking-factors/
+https://yoast.com/15-questions-about-ranking-factors/#comments
+https://yoast.com/16-months-of-google-search-console-data/#comments
+https://yoast.com/3-exercises-google-analytics-fun/
+https://yoast.com/3-seo-quick-wins/
+https://yoast.com/3-seo-quick-wins/#comments
+https://yoast.com/5-questions-david-mihm/
+https://yoast.com/5-seo-questions/
+https://yoast.com/5-tips-branding/
+https://yoast.com/5-tips-get-inspiration-blog/
+https://yoast.com/5-tips-improve-readability-blog-post/
+https://yoast.com/5-tips-improve-readability-blog-post/#comments
+https://yoast.com/6-questions-about-redirects-for-seo/
+https://yoast.com/6-questions-about-redirects-for-seo/#comments
+https://yoast.com/7-keyword-research-mistakes-avoid/
+https://yoast.com/7-keyword-research-mistakes-avoid/#comments
+https://yoast.com/Digital_library.php
+https://yoast.com/Expert_Services.php
+https://yoast.com/ILL.php
+https://yoast.com/NBBIA_2019.pdf
+https://yoast.com/Participants_Details_External.pdf
+https://yoast.com/Participants_Details_Internal.pdf
+https://yoast.com/Registration_Form_NBBIA.docx
+https://yoast.com/Registration_Form_STBMS2020.docx
+https://yoast.com/Repro_Scan.php
+https://yoast.com/Reservation.php
+https://yoast.com/STBMS_2018_brochure.pdf
+https://yoast.com/STBMS_2020_brochure.pdf
+https://yoast.com/Technical_Program_STBMS_2018.pdf
+https://yoast.com/WEB_OPAC.php
+https://yoast.com/about-us/
+https://yoast.com/about-us/ 
+https://yoast.com/about-us/  
+https://yoast.com/about-us/product-philosophy/
+https://yoast.com/about-us/team/
+https://yoast.com/about-us/team/annelieke-van-den-berg/
+https://yoast.com/about-us/team/edwin-toonen/
+https://yoast.com/about-us/team/jimmy-comack/
+https://yoast.com/about-us/team/jono-alderson/
+https://yoast.com/about-us/team/joost-de-valk/
+https://yoast.com/about-us/team/marieke-van-de-rakt/
+https://yoast.com/about-us/team/meike-hendriks/
+https://yoast.com/about-us/team/michiel-heijmans/
+https://yoast.com/about-us/team/omar-reiss/
+https://yoast.com/about-us/team/taco-verdonschot/
+https://yoast.com/academy/
+https://yoast.com/academy/ 
+https://yoast.com/academy/  
+https://yoast.com/academy/academy-all-around-seo-training/
+https://yoast.com/academy/all-around-seo-training/
+https://yoast.com/academy/basic-seo-training/
+https://yoast.com/academy/course/yoast-seo-wordpress-training/
+https://yoast.com/academy/course/yoast-seo-wordpress-training/ 
+https://yoast.com/academy/course/yoast-seo-wordpress-training/  
+https://yoast.com/academy/free-block-editor-training/
+https://yoast.com/academy/free-seo-training-seo-for-beginners/
+https://yoast.com/academy/free-training-wordpress-for-beginners/
+https://yoast.com/academy/international-seo/
+https://yoast.com/academy/keyword-research-training/
+https://yoast.com/academy/seo-copywriting-training/
+https://yoast.com/academy/seo-copywriting-training/keyphrase-distribution/
+https://yoast.com/academy/seo-copywriting-training/paragraph-length/
+https://yoast.com/academy/seo-copywriting-training/sentence-length/
+https://yoast.com/academy/seo-copywriting-training/text-length/
+https://yoast.com/academy/site-structure-training/
+https://yoast.com/academy/structured-data-training/
+https://yoast.com/academy/technical-seo-training/
+https://yoast.com/academy/training-subscription/
+https://yoast.com/accessibility-matters/
+https://yoast.com/accidentally-noindexed-a-post-what-to-do/
+https://yoast.com/accidentally-noindexed-a-post-what-to-do/#comments
+https://yoast.com/adapting-your-content-seo-strategy/#comments
+https://yoast.com/admissions_all/PHD_Biotechnology.pdf
+https://yoast.com/admissions_all/PHD_CivilEng.pdf
+https://yoast.com/admissions_all/PHD_HumanitiesSocialSci.pdf
+https://yoast.com/admissions_all/PHD_Maths.pdf
+https://yoast.com/admissions_all/PHD_Physics.pdf
+https://yoast.com/advanced-technical-seo-social-image-ogimage-tags/
+https://yoast.com/advanced-technical-seo-social-image-ogimage-tags/#comments
+https://yoast.com/all-about-googles-knowledge-panels/
+https://yoast.com/an-introduction-to-user-research/
+https://yoast.com/analyze-drop-traffic/
+https://yoast.com/analyzing-your-audience-a-how-to/
+https://yoast.com/app/uploads/2017/04/overview-cornerstones.png
+https://yoast.com/app/uploads/2017/06/Search_Appearance_-_Yoast_SEO_�_Local_WordPress_Dev_�_WordPress-600x592.png
+https://yoast.com/app/uploads/2017/08/perfectly-optimized-local-landing-page.png
+https://yoast.com/app/uploads/2018/04/AMP_2034CD4B.png
+https://yoast.com/app/uploads/2018/04/XML_Sitemap_1EF131C6.png
+https://yoast.com/app/uploads/2019/06/Perfect_blogpost_step_by_step.pdf
+https://yoast.com/archive-seo/
+https://yoast.com/archives/2011-08-24 Condition for Pass and Progression In JUIT.pdf
+https://yoast.com/archives/2011-11-28 Improvement of Grades.pdf
+https://yoast.com/archives/2014-07-01 Dispensary.pdf
+https://yoast.com/archives/2014-07-04 Pre-Placement Training.pdf
+https://yoast.com/archives/2014-07-17 Counselling 2014.pdf
+https://yoast.com/archives/2014-07-17 Counselling Duty.pdf
+https://yoast.com/archives/2014-07-21 Summer Semester Examination.pdf
+https://yoast.com/archives/2014-08-02 Students to meet undersigned.pdf
+https://yoast.com/archives/2014-08-07 Students not allowed to register in 3rd semester.pdf
+https://yoast.com/archives/2014-08-07 Time Table Odd Semester 2014.pdf
+https://yoast.com/archives/2014-08-08 We Say No Ragging.pdf
+https://yoast.com/archives/2014-08-09 HSS Electives.pdf
+https://yoast.com/archives/2014-08-11 Anti Ragging Cell.pdf
+https://yoast.com/archives/2014-08-12 Change of Electives.pdf
+https://yoast.com/archives/2014-08-12 Independence Day Celebration.pdf
+https://yoast.com/archives/2014-08-13 16 August, 2014 Declared as Holiday.pdf
+https://yoast.com/archives/2014-08-13 Students to meet their teachers.pdf
+https://yoast.com/archives/2014-08-14 ICT students to Return Grade Sheets.pdf
+https://yoast.com/archives/2014-08-21 12 & less Credit to complete Degree.pdf
+https://yoast.com/archives/2014-08-21 30th August observed as a full day.pdf
+https://yoast.com/archives/2014-08-24 Steps Against Monkeys Nuisance.pdf
+https://yoast.com/archives/2014-08-26 Final Year Students to collect Grade Sheet.pdf
+https://yoast.com/archives/2014-08-27 JYC Notice.pdf
+https://yoast.com/archives/2014-08-27 Notice.pdf
+https://yoast.com/archives/2014-08-28 Uniform For 1st Year Students.pdf
+https://yoast.com/archives/2014-08-29 Notice, Branch Upgradation List.pdf
+https://yoast.com/archives/2014-08-30 Batch wise list of 2014-15 admitted, 1st year students.pdf
+https://yoast.com/archives/2014-08-30 Webkiosk Passwords for 1st year B.Tech and M.Tech Students.pdf
+https://yoast.com/archives/2014-09-02 JUIT Bus Service for the Students.pdf
+https://yoast.com/archives/2014-09-10 University of Florida.pdf
+https://yoast.com/archives/2014-09-11 Students having low CGPA, are required to take Under taking letter from Admin.pdf
+https://yoast.com/archives/2014-09-12 Mess Committee.pdf
+https://yoast.com/archives/2014-09-12 Natural Calamity - Floods.pdf
+https://yoast.com/archives/2014-09-13 Students Required To Collect Show Cause Notice.pdf
+https://yoast.com/archives/2014-09-16 4th Oct., 2014 Declared as holiday & 27th Sept., 2014 will be full working day.pdf
+https://yoast.com/archives/2014-09-18 Appointment of Chief Warden.pdf
+https://yoast.com/archives/2014-09-19 DPMC Seminars on 23rd September 2014.pdf
+https://yoast.com/archives/2014-09-24 1st year students are required to collect Uniform.pdf
+https://yoast.com/archives/2014-09-27 Disciplinary Action Against Students.pdf
+https://yoast.com/archives/2014-10-06 Interview at JIIT Noida.pdf
+https://yoast.com/archives/2014-10-07 De-Registration.pdf
+https://yoast.com/archives/2014-10-09 Mid Sem Lab Exam of Physics Lab-1.pdf
+https://yoast.com/archives/2014-10-09 NCC Registration.pdf
+https://yoast.com/archives/2014-10-10 Instructions to Students for Examination.pdf
+https://yoast.com/archives/2014-10-28 Fine to students for not having ID card during Mid Sem Exam.pdf
+https://yoast.com/archives/2014-11-03 5th Convocation JUIT, Waknaghat.pdf
+https://yoast.com/archives/2014-11-13 Constitution of Grievance and Disciplinary Committee.pdf
+https://yoast.com/archives/2014-11-14 2013 Batch students to collect their grade sheets.pdf
+https://yoast.com/archives/2014-11-14 Appointment of Wardens & Sports Incharge.pdf
+https://yoast.com/archives/2014-11-18 Students have to fill webkiosk details, before 30th Nov. 2014.pdf
+https://yoast.com/archives/2014-12-11 Supplementary Exam, January 2015.pdf
+https://yoast.com/archives/2014-12-17 Fees for Condensed Semester.pdf
+https://yoast.com/archives/2015-01-22 Special Scholarship For North East Region From The Year 2014-15.pdf
+https://yoast.com/archives/2015-01-23 Republic Day Celebration.pdf
+https://yoast.com/archives/2015-02-04 Regularity of Attendance and Obtaining Minimum Marks....pdf
+https://yoast.com/archives/2015-02-24 Army Interview Under UES-24 Scheme.pdf
+https://yoast.com/archives/2015-03-11 Lecture on Swine Flu.pdf
+https://yoast.com/archives/2015-03-27 2012 Batch students to collect their Grade sheets.pdf
+https://yoast.com/archives/2015-04-01 M.Tech, M.Pharma and BTDD students to collect their Grade sheets.pdf
+https://yoast.com/archives/2015-04-13 Lost of Mobile Phone.pdf
+https://yoast.com/archives/2015-04-13 Students are to complete their details on WEBKIOSK.pdf
+https://yoast.com/archives/2015-04-14 Found gold ear ring.pdf
+https://yoast.com/archives/2015-04-27 Appointment of Director and Academic Head.pdf
+https://yoast.com/archives/2015-05-18 Farewell Dinner - Batch Passing out in 2015.pdf
+https://yoast.com/archives/2015-05-19 Final year students to vacate the hostel rooms by 30th May, 2015.pdf
+https://yoast.com/archives/2015-05-19 First year students to vacate the hostel rooms by 26th May, 2015.pdf
+https://yoast.com/archives/2015-05-23 Summer Semester & Improvement of Grades.pdf
+https://yoast.com/archives/2015-05-29 Summer Semester Courses for BTDD 2011 Batch.pdf
+https://yoast.com/archives/2015-06-01 Appointment of Nodal Officer.pdf
+https://yoast.com/archives/2015-06-02 Summer Semester Notice.pdf
+https://yoast.com/archives/2015-08-07 Appointment of Faculty In-Charge JYC and Coordinator Training & Placement.pdf
+https://yoast.com/archives/2015-08-21 students have been de-registered since they have not registered till date..pdf
+https://yoast.com/archives/2015-09-17 Attendance Requirements.pdf
+https://yoast.com/archives/2015-09-17 Procedure in case of Student being absent in specified Examination(s).pdf
+https://yoast.com/archives/2015-09-29 Holiday on 3rd Oct., 2015 and in lieu 10th Oct. 2015 will be full working day.. .pdf
+https://yoast.com/archives/2015-11-20 Pre-Registration - Even Semester 2016.pdf
+https://yoast.com/archives/2015-12-17 Registration - Condensed Semester.pdf
+https://yoast.com/archives/2016-01-21 Late Registration.pdf
+https://yoast.com/archives/2016-02-09 Students De-registered.pdf
+https://yoast.com/archives/2016-03-04 STUDENTS WHOSE ATTENDANCE IS BELOW 80 PERCENT.pdf
+https://yoast.com/archives/2016-04-14 Change in Student Summer Vacation.pdf
+https://yoast.com/archives/2016-05-16 Pre-Registration - Odd Semester 2016.pdf
+https://yoast.com/archives/2016-05-19 Training Diaries.pdf
+https://yoast.com/archives/2016-05-28 Students Debar List Even Semester 2015-16.pdf
+https://yoast.com/archives/2016-07-02 Notification.pdf
+https://yoast.com/archives/2016-07-15 Anti Ragging Committee.pdf
+https://yoast.com/archives/2016-09-05 Composition of the IQAC.pdf
+https://yoast.com/archives/2016-12-13 Allotment of Hostel Seats.pdf
+https://yoast.com/archives/2016-12-13 Notice for Students Proceeding to University of Florida.pdf
+https://yoast.com/archives/2016-12-13 Pre-Registration for Even Semester 2017.pdf
+https://yoast.com/archives/2016-12-13 Registration for Condensed Semester Students.pdf
+https://yoast.com/archives/2016-12-14 Students Debar List Odd Semester 2016.pdf
+https://yoast.com/archives/2016-12-17 Proctorial Board of the University.pdf
+https://yoast.com/archives/2016-12-17 Standing Enquiry Committee.pdf
+https://yoast.com/archives/2016-12-21 Composition of the Board of TIEDC.pdf
+https://yoast.com/archives/2016-12-28 Robotics & Embedded Systems Lab has been established.pdf
+https://yoast.com/archives/2017-02-04 Composition of the Governing Council.pdf
+https://yoast.com/archives/2017-07-01 Composition of IQAC.pdf
+https://yoast.com/archives/2017-07-15 Anti Ragging Committee.pdf
+https://yoast.com/archives/2017-07-15 Anti Ragging Squad.pdf
+https://yoast.com/archives/2017-09-01 Composition of Academic Council.pdf
+https://yoast.com/archives/2017-09-01 Composition of Executive Council.pdf
+https://yoast.com/archives/2017-09-01 Composition of the IQAC.pdf
+https://yoast.com/archives/2017-09-01 Constitution of  Grievance & Redressal Committee.pdf
+https://yoast.com/archives/2017-09-01 Constitution of Grievance and Disciplinary Committee.pdf
+https://yoast.com/archives/2017-09-08  Hostel Seats Available.pdf
+https://yoast.com/archives/2017-11-06 Composition of Committee for Implementing Digital Action Plan .pdf
+https://yoast.com/archives/2017-12-27 Important Changes in Evaluation System.pdf
+https://yoast.com/archives/2018-01-18 MHRD directive for Skill Testing, Jobs and Internships for all students.pdf
+https://yoast.com/archives/2018-02-08 Appointment of Web Master.pdf
+https://yoast.com/archives/2018-02-08 Notification Regarding Attendance.pdf
+https://yoast.com/archives/2018-02-10 Medical Leave for Students.pdf
+https://yoast.com/archives/2018-02-23 Constitution of Grievance Redressal and Disciplinary Committee.pdf
+https://yoast.com/archives/2018-04-26 Pre-Registration - ODD Semester 2018.pdf
+https://yoast.com/archives/2018-04-26 Registration - Summer Semester 2018.pdf
+https://yoast.com/archives/2018-04-26 Training Diaries Available.pdf
+https://yoast.com/archives/2018-05-14 Constitution of  Grievance Redressal Committee.pdf
+https://yoast.com/archives/2018-05-23 Showing of T3 answer sheets.pdf
+https://yoast.com/archives/2018-06-11 Anti Ragging Squad.pdf
+https://yoast.com/archives/2018-06-12 Anti Ragging Committee.pdf
+https://yoast.com/archives/2018-06-12 Composition of Academic Council.pdf
+https://yoast.com/archives/2018-06-12 Standing Committee to Receive Complaints Against Sexual Harassment.pdf
+https://yoast.com/archives/2018-07-23 Internal Complaint Committee (ICC).pdf
+https://yoast.com/archives/2018-10-08 Appointment of Controller of Examination.pdf
+https://yoast.com/archives/2018-10-08 Composition of Academic Council.pdf
+https://yoast.com/archives/2018-10-20 JYC Student Office Bearer.pdf
+https://yoast.com/archives/2019-01-23 MAPPING OF MOOCS WITH JUIT GRADING SYSTEM.pdf
+https://yoast.com/articles/
+https://yoast.com/articles/wordpress-hosting/
+https://yoast.com/ask-yoast-duplicate-content-issues-on-my-shop/
+https://yoast.com/ask-yoast-how-to-use-video-testimonials/
+https://yoast.com/ask-yoast-profile-online-platforms/
+https://yoast.com/attachments/AcademicCalendar2018-2019.pdf
+https://yoast.com/attachments/AcademicCalendar2019-2020.pdf
+https://yoast.com/attractive-writing-style-blog/
+https://yoast.com/audience-research-expert-interview/
+https://yoast.com/author/david-2/
+https://yoast.com/avoid-common-seo-mistakes/
+https://yoast.com/avoid-passive-voice/
+https://yoast.com/befriend-the-long-tail/
+https://yoast.com/beginners-guide-to-google-search-console/
+https://yoast.com/beyond-exact-keyword-matching-optimize-your-text-naturally/
+https://yoast.com/biotechnology-bioinformatics
+https://yoast.com/blog-engagement/
+https://yoast.com/blog-images/
+https://yoast.com/blog-or-vlog/
+https://yoast.com/blog-seo-blog-categories/
+https://yoast.com/blogger-focus-on-seo/
+https://yoast.com/breadcrumbs-seo/
+https://yoast.com/breadcrumbs-seo/#comments
+https://yoast.com/call-to-action/
+https://yoast.com/calling-next-action/
+https://yoast.com/carolines-corner-blog-planning/
+https://yoast.com/carolines-corner-how-to-use-pinterest/
+https://yoast.com/carolines-corner-how-to-use-pinterest/#comments
+https://yoast.com/cart/
+https://yoast.com/cart/ 
+https://yoast.com/cart/?add-to-cart=1624915
+https://yoast.com/cart/?add-to-cart=1624933
+https://yoast.com/cart/?add-to-cart=1624934
+https://yoast.com/cart/?add-to-cart=1624936
+https://yoast.com/cart/?add-to-cart=1624940
+https://yoast.com/cart/?add-to-cart=1624942
+https://yoast.com/cart/?add-to-cart=1753456
+https://yoast.com/cart/?add-to-cart=1753478
+https://yoast.com/cart/?add-to-cart=1754675
+https://yoast.com/cart/?add-to-cart=1754992
+https://yoast.com/cart/?add-to-cart=1822683
+https://yoast.com/cart/?add-to-cart=1822707
+https://yoast.com/cart/?add-to-cart=1853825
+https://yoast.com/cart/?add-to-cart=2213922
+https://yoast.com/cart/?add-to-cart=2298040
+https://yoast.com/cart/?add-to-cart=2298041
+https://yoast.com/cart/?add-to-cart=2298042
+https://yoast.com/cart/?add-to-cart=2298043
+https://yoast.com/cart/?add-to-cart=2306465
+https://yoast.com/cart/?add-to-cart=2353163
+https://yoast.com/cart/?add-to-cart=883404
+https://yoast.com/cart/?add-to-cart=883406
+https://yoast.com/cart/?add-to-cart=883408
+https://yoast.com/cart/?add-to-cart=883420
+https://yoast.com/cat/content-seo/
+https://yoast.com/cat/seo-basics/
+https://yoast.com/category-seo/
+https://yoast.com/checkout-page-ux/
+https://yoast.com/community/
+https://yoast.com/community/ 
+https://yoast.com/community/care-fund/recipients/
+https://yoast.com/complete-beginner-guide-to-seo/
+https://yoast.com/complete-beginner-guide-to-seo/#comments
+https://yoast.com/complete-guide-seo-copywriting/
+https://yoast.com/conference/ 
+https://yoast.com/conference/  
+https://yoast.com/consecutive-sentences-check-yoast-seo/
+https://yoast.com/contact-page-examples/
+https://yoast.com/contact.html
+https://yoast.com/contact/
+https://yoast.com/contact/ 
+https://yoast.com/contact/  
+https://yoast.com/content-analysis-methodological-choices-explained/
+https://yoast.com/content-blocks-future-benefit-seo/
+https://yoast.com/content-design/
+https://yoast.com/content-maintenance/
+https://yoast.com/conversion-rate-optimization-hypothesise-test/
+https://yoast.com/conversion-rate-optimization-hypothesise-test/#comments
+https://yoast.com/conversion-rate-optimization-planning/
+https://yoast.com/cornerstone-analysis/
+https://yoast.com/cornerstone-content-rank/
+https://yoast.com/crawl-errors/
+https://yoast.com/create-301-redirect-wordpress/
+https://yoast.com/create-a-website-seo-technical/
+https://yoast.com/create-google-search-console-dashboard/
+https://yoast.com/create-your-first-report-in-google-data-studio/
+https://yoast.com/create-your-first-report-in-google-data-studio/#comments
+https://yoast.com/creating-loyal-customers/
+https://yoast.com/creating-trust-testimonials/#comments
+https://yoast.com/customization/apis/overview
+https://yoast.com/customization/apis/rest-api
+https://yoast.com/customization/apis/surfaces-api
+https://yoast.com/customization/local-seo/changing-location-url-google-maps
+https://yoast.com/customization/local-seo/enhancing-search-results
+https://yoast.com/customization/yoast-seo-premium/disabling-automatic-redirects-notifications
+https://yoast.com/customization/yoast-seo-premium/hiding-version-number
+https://yoast.com/customization/yoast-seo/adding-custom-data-analysis
+https://yoast.com/customization/yoast-seo/disabling-primary-category
+https://yoast.com/customization/yoast-seo/disabling-yoast-seo
+https://yoast.com/degrees/2006 PASS OUT/B.TECH 2002.xls
+https://yoast.com/degrees/2006 PASS OUT/M.TECH 2002.xls
+https://yoast.com/degrees/2007 PASS OUT/B.TECH 2003.xls
+https://yoast.com/degrees/2007 PASS OUT/M.Tech Due Degree 2002.xls
+https://yoast.com/degrees/2007 PASS OUT/M.Tech IMCA 2005.xls
+https://yoast.com/degrees/2008 PASS OUT/B.TECH 2004.xls
+https://yoast.com/degrees/2008 PASS OUT/M.Tech  IMCA 2006.xls
+https://yoast.com/degrees/2008 PASS OUT/M.Tech  OWCT 2006.xls
+https://yoast.com/degrees/2008 PASS OUT/M.Tech CSE 2006.xls
+https://yoast.com/degrees/2008 PASS OUT/M.Tech DD Degree 2003.xls
+https://yoast.com/degrees/2009 PASS OUT/B.TECH 2005.xls
+https://yoast.com/degrees/2010 PASS OUT/B.TECH DUAL MBA ECE, CSE,IT,CE 2005.xls
+https://yoast.com/degrees/2010 PASS OUT/M.TECH  ECE 2008.xls
+https://yoast.com/degrees/2010 PASS OUT/M.Tech CM 2008.xls
+https://yoast.com/degrees/2010 PASS OUT/M.Tech CSE 2008.xls
+https://yoast.com/degrees/2010 PASS OUT/M.Tech DUAL BI,BT 2005.xls
+https://yoast.com/degrees/2011 PASS OUT/B.TECH 2007.xls
+https://yoast.com/degrees/2011 PASS OUT/M.TECH DUAL  2006.xls
+https://yoast.com/degrees/2011 PASS OUT/M.TECH ECE 2009.xls
+https://yoast.com/degrees/2011 PASS OUT/M.TECH. BT.xls
+https://yoast.com/degrees/2011 PASS OUT/M.Tech  CM 2009.xls
+https://yoast.com/degrees/2011 PASS OUT/M.Tech  CSE 2009.xls
+https://yoast.com/degrees/2012 PASS OUT/B.Tech 2008.xls
+https://yoast.com/degrees/2012 PASS OUT/BPharma.xls
+https://yoast.com/degrees/2012 PASS OUT/M.Tech COMPUTATIONAL BIOLOGY 2010.xls
+https://yoast.com/degrees/2012 PASS OUT/M.Tech COMPUTER SCIENCE AND ENGG. 2010.xls
+https://yoast.com/degrees/2012 PASS OUT/M.Tech CONSTTRUCTION MANAGEMENT 2010.xls
+https://yoast.com/degrees/2012 PASS OUT/M.Tech DUAL DEGREE 2007.xls
+https://yoast.com/degrees/2012 PASS OUT/M.Tech ELECTRONICS AND COMM. ENGG 2010.xls
+https://yoast.com/degrees/2013 PASS OUT/BPharma.xls
+https://yoast.com/degrees/2013 PASS OUT/M.TECH  ECE 2011.xls
+https://yoast.com/degrees/2013 PASS OUT/M.Tech  CSE 2011.xls
+https://yoast.com/degrees/2013 PASS OUT/M.Tech CB 2011.xls
+https://yoast.com/degrees/2013 PASS OUT/M.Tech CM 2011.xls
+https://yoast.com/degrees/2013 PASS OUT/M.Tech DUAL DEGREE 2008.xls
+https://yoast.com/degrees/2013 PASS OUT/M.Tech NANO 2011.xls
+https://yoast.com/degrees/2014 PASS OUT/BPharma.xls
+https://yoast.com/degrees/2014 PASS OUT/M. PHARMA  2012.xlsx
+https://yoast.com/degrees/2014 PASS OUT/M.TEC DUAL DEGREE 2009.xls
+https://yoast.com/degrees/2014 PASS OUT/M.TECH ECE 2012.xls
+https://yoast.com/degrees/2014 PASS OUT/M.Tech  CSE 2012.xls
+https://yoast.com/degrees/2014 PASS OUT/M.Tech CB 2012.xls
+https://yoast.com/degrees/2014 PASS OUT/M.Tech CM 2012.xls
+https://yoast.com/degrees/2014 PASS OUT/M.Tech SE 2012.xls
+https://yoast.com/degrees/2015 PASS OUT/B.TECH 2011.xlsx
+https://yoast.com/degrees/2015 PASS OUT/BPharma.xlsx
+https://yoast.com/degrees/2015 PASS OUT/M. PHARMA  2013.xlsx
+https://yoast.com/degrees/2015 PASS OUT/M.TECH ECE.xls
+https://yoast.com/degrees/2015 PASS OUT/M.TECH. BT.xls
+https://yoast.com/degrees/2015 PASS OUT/M.Tech CSE.xls
+https://yoast.com/degrees/2015 PASS OUT/M.Tech SE.xls
+https://yoast.com/degrees/2016 PASS OUT/All.xlsx
+https://yoast.com/degrees/2017 PASS OUT/All.xlsx
+https://yoast.com/degrees/2018 PASS OUT/All.xlsx
+https://yoast.com/deleting-pages-from-your-site/
+https://yoast.com/deleting-pages-from-your-site/#comments
+https://yoast.com/dev-blog/move-website-https-ssl/
+https://yoast.com/difference-between-keyword-and-keyphrase/
+https://yoast.com/dimensions-and-metrics-google-analytics/
+https://yoast.com/diy-duplicate-content-check/#comments
+https://yoast.com/diy-test-mobile-site/
+https://yoast.com/does-readability-rank/
+https://yoast.com/dont-block-css-and-js-files/
+https://yoast.com/download-brochure
+https://yoast.com/duplicate-content/
+https://yoast.com/duplicate-content/#comments
+https://yoast.com/ebooks/content-seo/
+https://yoast.com/ecommerce-usability-the-ultimate-guide/
+https://yoast.com/elements-of-the-google-search-result-page
+https://yoast.com/elements-of-the-google-search-result-page/
+https://yoast.com/eu/cart?add-to-cart=109998
+https://yoast.com/exclusive
+https://yoast.com/facebook-page-insights/#comments
+https://yoast.com/facebook-traffic-the-current-status/
+https://yoast.com/favicons-and-your-online-brand/
+https://yoast.com/featured-snippet-answer-box/
+https://yoast.com/features/opengraph/api/changing-og-locale-output
+https://yoast.com/features/opengraph/api/overview
+https://yoast.com/features/opengraph/functional-specification
+https://yoast.com/features/opengraph/overview
+https://yoast.com/features/overview
+https://yoast.com/features/schema/api
+https://yoast.com/features/schema/background
+https://yoast.com/features/schema/integration-guidelines
+https://yoast.com/features/schema/overview
+https://yoast.com/features/schema/overview/
+https://yoast.com/features/schema/pieces
+https://yoast.com/features/schema/plugins
+https://yoast.com/features/schema/technology-approach
+https://yoast.com/features/seo-tags/canonical-urls/api
+https://yoast.com/features/seo-tags/canonical-urls/overview
+https://yoast.com/features/seo-tags/canonical-urls/overview/
+https://yoast.com/features/seo-tags/meta-robots/functional-specification
+https://yoast.com/features/seo-tags/meta-robots/overview
+https://yoast.com/features/twitter/functional-specification
+https://yoast.com/features/xml-sitemaps/api
+https://yoast.com/features/xml-sitemaps/functional-specification
+https://yoast.com/features/xml-sitemaps/overview
+https://yoast.com/features/xml-sitemaps/overview/
+https://yoast.com/find-fix-keyword-cannibalization-issues/
+https://yoast.com/find-shop-niche/
+https://yoast.com/find-shop-niche/#comments
+https://yoast.com/five-contact-page-mistakes/
+https://yoast.com/fix-low-quality-pages/#comments
+https://yoast.com/flesch-reading-ease-score/
+https://yoast.com/focus-keyword/
+https://yoast.com/focus-keyword/#how
+https://yoast.com/focus-on-long-tail-keywords/
+https://yoast.com/get-local-reviews-ratings/
+https://yoast.com/get-local-reviews-ratings/#comments
+https://yoast.com/goals-and-statistics/
+https://yoast.com/google-algorithm-updates/
+https://yoast.com/google-algorithm-updates/#comments
+https://yoast.com/google-analytics-dashboards/
+https://yoast.com/google-analytics-segments-blog/#comments
+https://yoast.com/google-at-20/
+https://yoast.com/google-bert/
+https://yoast.com/google-core-algorithm-update/
+https://yoast.com/google-knowledge-graph/#comments
+https://yoast.com/google-lighthouse/
+https://yoast.com/google-lighthouse/  
+https://yoast.com/google-lighthouse/#respond
+https://yoast.com/google-my-business/#comments
+https://yoast.com/google-panda-google-core-algorithm/#comments
+https://yoast.com/google-panda-low-quality-pages/#comments
+https://yoast.com/google-penguin-explained/
+https://yoast.com/google-rich-results-testing-tool/
+https://yoast.com/google-rich-results-testing-tool/#comments
+https://yoast.com/google-search-console-and-structured-data/#comments
+https://yoast.com/google-search-sitelinks/
+https://yoast.com/google-search-sitelinks/#comments
+https://yoast.com/google-tag-manager-an-introduction/
+https://yoast.com/google-update-jan-2016-penguin-real-time/
+https://yoast.com/google-webmaster-tools-search-appearance/
+https://yoast.com/googles-new-video-reporting-and-yoast-video-seo-plugin/
+https://yoast.com/googles-new-video-reporting-and-yoast-video-seo-plugin/#comments
+https://yoast.com/graphs/DSC_0098.JPG
+https://yoast.com/graphs/DSC_0115.JPG
+https://yoast.com/graphs/DSC_0116.JPG
+https://yoast.com/graphs/DSC_0117.JPG
+https://yoast.com/graphs/DSC_0118.JPG
+https://yoast.com/graphs/DSC_0120.JPG
+https://yoast.com/graphs/DSC_0121.JPG
+https://yoast.com/graphs/International.jpg
+https://yoast.com/graphs/National Journals.jpg
+https://yoast.com/graphs/Print JournalsMagazines.jpg
+https://yoast.com/graphs/You Said It We Did It 1.jpg
+https://yoast.com/graphs/You Said It We Did It 2.jpg
+https://yoast.com/graphs/You Said It We Did It 3.jpg
+https://yoast.com/graphs/You Said It We Did It 4.jpg
+https://yoast.com/graphs/book_exp_09_13.jpg
+https://yoast.com/graphs/cir_09_13.jpg
+https://yoast.com/graphs/eJou_exp_09_13.jpg
+https://yoast.com/graphs/juit_phd_oct_14.jpg
+https://yoast.com/grow-your-business-with-ratings-and-reviews/
+https://yoast.com/gutenberg-alternative-approach/
+https://yoast.com/gutenberg-integration/
+https://yoast.com/headings-use/
+https://yoast.com/headlines-taglines/
+https://yoast.com/help
+https://yoast.com/help  
+https://yoast.com/help/
+https://yoast.com/help/ 
+https://yoast.com/help/  
+https://yoast.com/help/aggregaterating-review-offer-required/
+https://yoast.com/help/can-i-use-your-schema-blocks-in-the-classic-editor/
+https://yoast.com/help/canonical-urls-in-wordpress-seo/
+https://yoast.com/help/category/wordpress-plugins/page/10/
+https://yoast.com/help/category/wordpress-plugins/page/11/
+https://yoast.com/help/category/wordpress-plugins/page/2/
+https://yoast.com/help/category/wordpress-plugins/page/5/
+https://yoast.com/help/category/wordpress-plugins/page/8/
+https://yoast.com/help/category/wordpress-plugins/page/9/
+https://yoast.com/help/category/yoast-seo-local/
+https://yoast.com/help/category/yoast-seo-video/
+https://yoast.com/help/category/yoast-seo/
+https://yoast.com/help/configuration-guide-for-news-seo/
+https://yoast.com/help/configuration-guide-for-yoast-seo/
+https://yoast.com/help/configuration-guide-for-yoast-woocommerce-seo/
+https://yoast.com/help/enable-xml-sitemaps-in-the-wordpress-seo-plugin/
+https://yoast.com/help/enable-xml-sitemaps-in-the-wordpress-seo-plugin/#help
+https://yoast.com/help/enable-xml-sitemaps-in-the-wordpress-seo-plugin/#limit
+https://yoast.com/help/enable-xml-sitemaps-in-the-wordpress-seo-plugin/#view
+https://yoast.com/help/error-the-following-file-is-blocking-your-xml-sitemaps/
+https://yoast.com/help/features-per-language/
+https://yoast.com/help/generate-set-google-maps-api-key/
+https://yoast.com/help/google-maps-not-working/
+https://yoast.com/help/how-can-i-update-my-premium-plugin/
+https://yoast.com/help/how-do-i-noindex-urls/
+https://yoast.com/help/how-to-add-custom-attributes-to-your-products/
+https://yoast.com/help/how-to-check-for-plugin-conflicts/
+https://yoast.com/help/how-to-connect-your-website-to-bing-webmaster-tools/
+https://yoast.com/help/how-to-connect-your-website-to-google-webmaster-tools/
+https://yoast.com/help/how-to-connect-your-website-to-yandex-webmaster-tools/
+https://yoast.com/help/how-to-customize-the-sitemap-index/
+https://yoast.com/help/how-to-index-private-videos/
+https://yoast.com/help/how-to-modify-default-snippet-templates-in-yoast-seo/
+https://yoast.com/help/how-to-write-a-good-bug-report/
+https://yoast.com/help/implement-wordpress-seo-breadcrumbs/
+https://yoast.com/help/import-csv-file-for-local-seo/
+https://yoast.com/help/installation-guide-for-the-local-seo-plugin/
+https://yoast.com/help/installation-guide-for-wordpress-seo/
+https://yoast.com/help/installation-guide-of-wordpress-seo-premium/
+https://yoast.com/help/list-available-snippet-variables-yoast-seo/
+https://yoast.com/help/local-seo-for-woocommerce-is-now-part-of-the-local-seo-plugin/
+https://yoast.com/help/moving-from-http-to-https-with-the-yoast-plugin/
+https://yoast.com/help/my-location-page-isnt-appearing-in-my-embedded-google-map/
+https://yoast.com/help/my-meta-descriptions-arent-showing-up-in-the-search-result-pages/
+https://yoast.com/help/my-meta-descriptions-arent-showing-up-in-the-search-result-pages/#ignored
+https://yoast.com/help/my-sitemap-is-blank-what-s-wrong/#stylesheet
+https://yoast.com/help/publication-date-time-in-the-news-xml-sitemap/
+https://yoast.com/help/remove-google-maps-api-restrictions/
+https://yoast.com/help/search-appearance-organization-or-person/
+https://yoast.com/help/submit-sitemap-search-engines/
+https://yoast.com/help/submit-sitemap-search-engines/#google-submit
+https://yoast.com/help/support/
+https://yoast.com/help/support/#premium
+https://yoast.com/help/support/#premium 
+https://yoast.com/help/support/#premium  
+https://yoast.com/help/supported-video-hosting-platforms-for-video-seo-plugin/
+https://yoast.com/help/video-seo-plugin-configuration-guide/
+https://yoast.com/help/why-is-my-vat-number-rejected/
+https://yoast.com/help/xml-sitemap-errors/
+https://yoast.com/help/xml-sitemaps-in-the-wordpress-seo-plugin/
+https://yoast.com/help/yoast-quickstart-guide/
+https://yoast.com/hire-us/website-review/
+https://yoast.com/holistic-seo/#comments
+https://yoast.com/homepage-optimization/#comments
+https://yoast.com/how-is-your-sites-seo-doing/
+https://yoast.com/how-site-speed-influences-seo/#comments
+https://yoast.com/how-to-become-a-better-writer/
+https://yoast.com/how-to-build-an-faq-page/
+https://yoast.com/how-to-change-your-favicon-in-wordpress-a-step-by-step-guide/#comments
+https://yoast.com/how-to-check-site-speed/
+https://yoast.com/how-to-choose-keywords-thatll-attract-traffic/
+https://yoast.com/how-to-clean-site-structure/
+https://yoast.com/how-to-contribute-to-open-source-felix-reveals/
+https://yoast.com/how-to-craft-the-perfect-blog-post-step-by-step-guide/
+https://yoast.com/how-to-find-a-niche-for-your-blog/
+https://yoast.com/how-to-handle-comments-on-your-blog/#comments
+https://yoast.com/how-to-improve-your-link-text/
+https://yoast.com/how-to-index-new-wordpress-site/
+https://yoast.com/how-to-index-new-wordpress-site/#comments
+https://yoast.com/how-to-install-a-wordpress-plugin/
+https://yoast.com/how-to-install-a-wordpress-plugin/#comments
+https://yoast.com/how-to-measure-the-success-of-your-content-seo-strategy
+https://yoast.com/how-to-one-page-analysis-in-google-analytics/
+https://yoast.com/how-to-one-page-analysis-in-google-analytics/#comments
+https://yoast.com/how-to-set-up-a-cornerstone-content-strategy-with-yoast-seo/
+https://yoast.com/how-to-start-a-blog/
+https://yoast.com/how-to-start-a-blog/#comments
+https://yoast.com/how-to-start-with-seo/
+https://yoast.com/how-to-start-writing-a-blog-post/
+https://yoast.com/how-to-stay-unique/
+https://yoast.com/how-to-use-headings-on-your-site/
+https://yoast.com/how-to-use-storytelling-in-a-blog-post/
+https://yoast.com/how-to-use-the-text-link-counter/
+https://yoast.com/how-to-write-a-blog-post/
+https://yoast.com/how-to-write-a-blog-post/  
+https://yoast.com/how-to-write-a-blog-post/#comments
+https://yoast.com/how-to-write-a-blog-post/#respond
+https://yoast.com/how-to-write-a-high-quality-and-seo-friendly-blog-post/
+https://yoast.com/how-to-yoast-your-post/
+https://yoast.com/how-we-all-benefit-from-open-source/
+https://yoast.com/how-we-make-yoast-seo-understand-your-language/
+https://yoast.com/howto-structured-data/
+https://yoast.com/hreflang-example/
+https://yoast.com/hreflang-example/#comments
+https://yoast.com/hreflang-ultimate-guide/
+https://yoast.com/hreflang-ultimate-guide/#comments
+https://yoast.com/http-status-codes/
+https://yoast.com/image-search-google-analytics/
+https://yoast.com/image-search-google-analytics/#comments
+https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/
+https://yoast.com/image-seo/#comments
+https://yoast.com/importance-original-content/
+https://yoast.com/importance-original-content/#comments
+https://yoast.com/improve-mobile-ux/
+https://yoast.com/index.html
+https://yoast.com/indexables/
+https://yoast.com/internal-linking-for-seo-why-and-how/
+https://yoast.com/internal-search-online-shop/
+https://yoast.com/interpreting-your-ab-test-results/
+https://yoast.com/interview-boris-veldhuijzen-van-zanten-the-next-web/#comments
+https://yoast.com/inverted-pyramid/
+https://yoast.com/jobs
+https://yoast.com/jobs 
+https://yoast.com/jobs  
+https://yoast.com/jobs/
+https://yoast.com/json-ld/
+https://yoast.com/json-ld/#comments
+https://yoast.com/juit-placements
+https://yoast.com/just-married/
+https://yoast.com/keep-your-content-fresh-and-up-to-date/
+https://yoast.com/keyword-cannibalization/
+https://yoast.com/keyword-cannibalization/#comments
+https://yoast.com/keyword-research-tools/
+https://yoast.com/keyword-research-ultimate-guide/
+https://yoast.com/keyword-research/
+https://yoast.com/know-your-customer/
+https://yoast.com/know-your-customer/#comments
+https://yoast.com/landing-page-google-analytics/
+https://yoast.com/lending.php
+https://yoast.com/link-building-for-bloggers/
+https://yoast.com/link-building-from-a-holistic-seo-perspective/
+https://yoast.com/link-building-what-not-to-do/
+https://yoast.com/link-building-what-not-to-do/#comments
+https://yoast.com/local-business-listings/
+https://yoast.com/local-seo-setting-up-landing-pages/
+https://yoast.com/lrc-collections.php
+https://yoast.com/lrc-contact-us.php
+https://yoast.com/lrc_Forms.php
+https://yoast.com/lrc_help.php
+https://yoast.com/magento-seo/
+https://yoast.com/managing-a-growing-blog-content-planning/#comments
+https://yoast.com/marketing-your-blog/
+https://yoast.com/measure-black-friday-succes/#comments
+https://yoast.com/measure-social-media-efforts/
+https://yoast.com/measure-social-media-efforts/#comments
+https://yoast.com/measuring-seo-rankings/#comments
+https://yoast.com/meet-yoast/
+https://yoast.com/meta-descriptions/#comments
+https://yoast.com/metadata-and-seo-part-2-link-rel-metadata/
+https://yoast.com/metadata-and-seo-part-3-social-internationalization-and-more/
+https://yoast.com/metadata-seo-head-section/
+https://yoast.com/mobile-seo-ultimate-guide/
+https://yoast.com/monetizing-your-blog/
+https://yoast.com/moving-your-website-to-https-ssl-tips-tricks/#comment-529224
+https://yoast.com/moving-your-website-to-https-ssl-tips-tricks/#comments
+https://yoast.com/must-reads-for-website-seo/ 
+https://yoast.com/must-reads-for-website-seo/  
+https://yoast.com/new-tactics-to-improve-your-facebook-reach/#comments
+https://yoast.com/new_arrival.php
+https://yoast.com/newsletter/
+https://yoast.com/not-write-click-bait-headlines/
+https://yoast.com/not-write-click-bait-headlines/#comments
+https://yoast.com/oc.html
+https://yoast.com/off-page-seo/
+https://yoast.com/on-serp-seo/
+https://yoast.com/on-serp-seo/#comments
+https://yoast.com/online-customer-brand-ambassador/
+https://yoast.com/online-customer-brand-ambassador/#comments
+https://yoast.com/onlineinfo.php
+https://yoast.com/opinion-on-sliders/
+https://yoast.com/optimize-landing-page/ 
+https://yoast.com/optimize-landing-page/#comments
+https://yoast.com/optimize-landing-page/#respond
+https://yoast.com/optimize-real-estate-site/#comments
+https://yoast.com/optimize-restaurant-website/
+https://yoast.com/optimize-restaurant-website/#comments
+https://yoast.com/optimizing-mobile-content/
+https://yoast.com/orphaned-content/
+https://yoast.com/our-mission-seo-for-everyone/
+https://yoast.com/out/genesis/
+https://yoast.com/page-experience-google-ranking-factor/
+https://yoast.com/page-experience-google-ranking-factor/#respond
+https://yoast.com/page-performance-google-analytics/
+https://yoast.com/page-speed-ranking-factor/
+https://yoast.com/page-titles-seo/
+https://yoast.com/patron.html
+https://yoast.com/photography-seo/#exifimageobject
+https://yoast.com/photography-seo/#foodphotographyseo
+https://yoast.com/photography-seo/#photogalleryseo
+https://yoast.com/photography-seo/#singlephotoseo
+https://yoast.com/photography-seo/#stockphotoseo
+https://yoast.com/photography-seo/#weddingphotographyseo
+https://yoast.com/photography-seo/#whyphotographershateseo
+https://yoast.com/photography-seo/#whyrank
+https://yoast.com/pinterest-yoast-woocommerce-seo/
+https://yoast.com/placement
+https://yoast.com/placement2015-2019
+https://yoast.com/placement2016-2020
+https://yoast.com/placementstatistics
+https://yoast.com/plugin-future/#comments
+https://yoast.com/plugin-not-working/
+https://yoast.com/positioning-your-shop-online/#comments
+https://yoast.com/post-sitemap.xml
+https://yoast.com/poster.html
+https://yoast.com/power-reviews/
+https://yoast.com/premium-seo-analysis-as-smart-as-google/
+https://yoast.com/preparing-your-blog-post/
+https://yoast.com/prevent-anonymous-comments-wordpress/
+https://yoast.com/privacy-policy/ 
+https://yoast.com/privacy-policy/  
+https://yoast.com/product-images-online-shop-optimization/
+https://yoast.com/product-page-seo/
+https://yoast.com/pubdb.php
+https://yoast.com/purpose-text-seo/
+https://yoast.com/rank-with-that-cornerstone-content/
+https://yoast.com/ranking-signals/
+https://yoast.com/ranking-your-local-business-3-website-optimization/
+https://yoast.com/ranking-your-local-business-google-my-business/
+https://yoast.com/ranking-your-local-business-part-1-introduction/
+https://yoast.com/ranking-your-local-business-part-1-introduction/#comments
+https://yoast.com/ranking-your-local-business-part-2-google-my-business/
+https://yoast.com/ranking-your-local-business-part-3-website-optimization
+https://yoast.com/ranking-your-local-business-part-3-website-optimization/#comments
+https://yoast.com/ranking-your-local-business-part-4-inbound-links/
+https://yoast.com/ranking-your-local-business-part-5-citations/#citations_in_local_algorithm_future
+https://yoast.com/ranking-your-local-business-part-5-citations/#comments
+https://yoast.com/ranking-your-local-business-part-6-local-reviews/
+https://yoast.com/ranking-your-local-business-part-6-local-reviews/#read
+https://yoast.com/ranking-your-local-business-part-7-social-signals/#comments
+https://yoast.com/ranking-your-local-business-part-8-behavioral-signals/
+https://yoast.com/ranking-your-local-business-part-iv-inbound-links/
+https://yoast.com/reaching-audience-via-facebook/
+https://yoast.com/readability-dumbing-down-opening-up/#comments
+https://yoast.com/readability-ranks/
+https://yoast.com/reasons-optimized-content-doesnt-rank/
+https://yoast.com/reasons-to-upgrade-morphology/
+https://yoast.com/reasons-to-upgrade/
+https://yoast.com/refservices.php
+https://yoast.com/refund-policy/  
+https://yoast.com/refund-policy/refunds/
+https://yoast.com/reg.html
+https://yoast.com/regarding-googles-related-entities-patent/
+https://yoast.com/rel-canonical/
+https://yoast.com/rel-canonical/#canonical-http
+https://yoast.com/rel-canonical/#comments
+https://yoast.com/reserved-rights/
+https://yoast.com/reserved-rights/ 
+https://yoast.com/rich-results-everywhere/
+https://yoast.com/rich-results-everywhere/#comments
+https://yoast.com/rich-snippets-everywhere/
+https://yoast.com/rich-snippets-product-listings/
+https://yoast.com/robots-meta-tags/
+https://yoast.com/schedule.html
+https://yoast.com/schema-org-is-hard-were-making-it-easy/
+https://yoast.com/search-console-report-checks-site-speed/#comments
+https://yoast.com/search-console-showing-errors-in-your-product-structured-data/
+https://yoast.com/search-console-showing-errors-in-your-product-structured-data/#comments
+https://yoast.com/search-intent/
+https://yoast.com/search-intent/#comments
+https://yoast.com/search-results-create-intent-based-content/
+https://yoast.com/search-term/#comments
+https://yoast.com/secondary-dimensions-in-google-analytics/#comments
+https://yoast.com/semantically-link-entities/
+https://yoast.com/seo-and-ux/
+https://yoast.com/seo-audit-part-1/
+https://yoast.com/seo-audit-part-1/#comments
+https://yoast.com/seo-basics-crawlability/
+https://yoast.com/seo-basics-how-to-optimize-a-blog-post/
+https://yoast.com/seo-basics-what-does-google-do/
+https://yoast.com/seo-blog/
+https://yoast.com/seo-blog/page/3/
+https://yoast.com/seo-blog/page/4/
+https://yoast.com/seo-blog/page/88/
+https://yoast.com/seo-blog/page/90/
+https://yoast.com/seo-certification/
+https://yoast.com/seo-copywriting-and-writing-for-sales/
+https://yoast.com/seo-copywriting-and-writing-for-sales/#comments
+https://yoast.com/seo-copywriting-mistakes-you-should-avoid/
+https://yoast.com/seo-fact-fiction/
+https://yoast.com/seo-fact-fiction/#comments
+https://yoast.com/seo-for-a-new-website-the-very-first-things-to-do/
+https://yoast.com/seo-friendly-blog-post/
+https://yoast.com/seo-friendly-urls/
+https://yoast.com/seo-local-ranking-factors/
+https://yoast.com/seo-local-ranking-factors/#comments
+https://yoast.com/seo-paul-boag/#comments
+https://yoast.com/seo-roles/#comments
+https://yoast.com/sequence-segments-google-analytics/
+https://yoast.com/sequence-segments-google-analytics/#comments
+https://yoast.com/series/annelieke-analytics/  
+https://yoast.com/series/annelieke-analytics/page/2/
+https://yoast.com/series/annelieke-analytics/page/3/
+https://yoast.com/series/ask-yoast/
+https://yoast.com/series/ask-yoast/ 
+https://yoast.com/series/ask-yoast/  
+https://yoast.com/series/joosts-weekly-seo-recap/
+https://yoast.com/series/wordpress-for-beginners/
+https://yoast.com/series/yoast-seo-how-to/
+https://yoast.com/setting-google-analytics-goals/
+https://yoast.com/setting-up-wordpress-for-amp-accelerated-mobile-pages/
+https://yoast.com/shop-category-page/
+https://yoast.com/shop/ 
+https://yoast.com/shopping-cart-abandonment/
+https://yoast.com/shopping-cart-seo/
+https://yoast.com/shopping-cart-seo/#comments
+https://yoast.com/should-you-keep-old-content/
+https://yoast.com/should-you-keep-old-content/#comments
+https://yoast.com/site-speed-tools-suggestions/
+https://yoast.com/site-stand-out-search-results/
+https://yoast.com/site-structure-the-ultimate-guide/
+https://yoast.com/site-structure/
+https://yoast.com/sitemap_index.xml
+https://yoast.com/slug
+https://yoast.com/snippet-preview/
+https://yoast.com/snippet-variables/#comments
+https://yoast.com/social-buttons/
+https://yoast.com/social-media-influence-seo/
+https://yoast.com/social-media-optimization-with-wordpress-seo-by-yoast/
+https://yoast.com/social-media-optimization-with-yoast-seo/
+https://yoast.com/social-media-optimization-with-yoast-seo/#comments
+https://yoast.com/social-media-sales/
+https://yoast.com/social-media-strategy-where-to-begin/
+https://yoast.com/social-media-strategy-where-to-begin/#comments
+https://yoast.com/social-previews-yoast-seo-premium/
+https://yoast.com/speaker.html
+https://yoast.com/spider-trap/
+https://yoast.com/spider-trap/#comments
+https://yoast.com/standards/cheatsheets
+https://yoast.com/standards/coding-guidelines-and-principles
+https://yoast.com/standards/development-tools
+https://yoast.com/standards/overview
+https://yoast.com/standards/reindex-indexables
+https://yoast.com/standards/setting-up-integration-tests-for-the-plugins
+https://yoast.com/standards/using-composer
+https://yoast.com/standards/version-control-conventions
+https://yoast.com/stop-pleasing-google/
+https://yoast.com/stop-pleasing-google/#comments
+https://yoast.com/store/
+https://yoast.com/story-schema-structured-data-robots/
+https://yoast.com/structured-data-for-recipes/
+https://yoast.com/structured-data-schema-ultimate-guide/
+https://yoast.com/subscriptions
+https://yoast.com/subscriptions/
+https://yoast.com/subscriptions/ 
+https://yoast.com/subscriptions/  
+https://yoast.com/successful-linkbuilding-strategy/#comments
+https://yoast.com/tag/404/
+https://yoast.com/tag/amp/
+https://yoast.com/tag/ask-yoast/
+https://yoast.com/tag/blog-seo/page/2/
+https://yoast.com/tag/blog-seo/page/3/
+https://yoast.com/tag/blog-seo/page/4/
+https://yoast.com/tag/blogging/
+https://yoast.com/tag/branding/
+https://yoast.com/tag/charity/
+https://yoast.com/tag/content-seo/
+https://yoast.com/tag/crawl-directives/
+https://yoast.com/tag/facebook/
+https://yoast.com/tag/google-algorithm/
+https://yoast.com/tag/google-analytics/
+https://yoast.com/tag/google-panda/page/2/
+https://yoast.com/tag/google-penguin/
+https://yoast.com/tag/google-search-console/page/2/
+https://yoast.com/tag/gutenberg/
+https://yoast.com/tag/holistic-seo/page/2/
+https://yoast.com/tag/https/
+https://yoast.com/tag/image-seo/
+https://yoast.com/tag/instagram/
+https://yoast.com/tag/internal-linking/
+https://yoast.com/tag/keyword-research/
+https://yoast.com/tag/link-building/
+https://yoast.com/tag/local-seo-case-study/
+https://yoast.com/tag/local-seo/
+https://yoast.com/tag/mobile-seo/
+https://yoast.com/tag/multilingual-seo/
+https://yoast.com/tag/opengraph/
+https://yoast.com/tag/pinterest/page/2/
+https://yoast.com/tag/readability/
+https://yoast.com/tag/redirects/page/2/
+https://yoast.com/tag/release-post/
+https://yoast.com/tag/rich-snippets/page/2/
+https://yoast.com/tag/rich-snippets/page/3/
+https://yoast.com/tag/schema-org/
+https://yoast.com/tag/security/
+https://yoast.com/tag/seo-basics/
+https://yoast.com/tag/seo-basics/ 
+https://yoast.com/tag/seo-basics/  
+https://yoast.com/tag/seo-copywriting/page/11/
+https://yoast.com/tag/seo-copywriting/page/13/
+https://yoast.com/tag/seo-copywriting/page/14/
+https://yoast.com/tag/seo-copywriting/page/2/
+https://yoast.com/tag/seo-copywriting/page/3/
+https://yoast.com/tag/seo-copywriting/page/4/
+https://yoast.com/tag/seo-tools/
+https://yoast.com/tag/shop-seo/
+https://yoast.com/tag/site-speed/
+https://yoast.com/tag/site-structure/
+https://yoast.com/tag/software-yoast-seo-wordpress-premium/
+https://yoast.com/tag/software-yoast-seo-wordpress/
+https://yoast.com/tag/technical-seo/
+https://yoast.com/tag/twitter/
+https://yoast.com/tag/url/
+https://yoast.com/tag/usability/
+https://yoast.com/tag/video-seo/
+https://yoast.com/tag/webmaster-tools/
+https://yoast.com/tag/website-maintenance/
+https://yoast.com/tag/weekly-seo-recap/
+https://yoast.com/tag/woocommerce/
+https://yoast.com/tag/wordpress/
+https://yoast.com/tag/xml-sitemap/
+https://yoast.com/tag/yoast-academy/
+https://yoast.com/tag/yoastcon/
+https://yoast.com/terms-of-service/
+https://yoast.com/terms-of-service/ 
+https://yoast.com/terms-of-service/  
+https://yoast.com/tests-not-scientific/
+https://yoast.com/the-beginners-guide-to-the-new-google-search-console/
+https://yoast.com/the-block-editor-gutenberg-why-you-should-be-using-it/
+https://yoast.com/the-context-of-internal-links/
+https://yoast.com/the-sense-and-nonsense-of-xml-sitemaps/
+https://yoast.com/the-site-structure-of-a-growing-blog/
+https://yoast.com/timeless-seo-tips/
+https://yoast.com/timeless-seo-tips/#comments
+https://yoast.com/tips-for-blog-ideas/#comments
+https://yoast.com/tips-local-seo-content-strategy/
+https://yoast.com/tips-local-seo-content-strategy/#comments
+https://yoast.com/to-blog-or-not-to-blog/#comments
+https://yoast.com/too-much-high-quality-content/
+https://yoast.com/tracking-seo-google-analytics/
+https://yoast.com/transition-words-and-seo/
+https://yoast.com/travel.html
+https://yoast.com/twitter-analytics-stats-for-your-tweets/
+https://yoast.com/twitter-cards/
+https://yoast.com/ultimate-guide-blogging/
+https://yoast.com/ultimate-guide-content-seo/
+https://yoast.com/ultimate-guide-robots-txt/
+https://yoast.com/ultimate-guide-to-small-business-seo/
+https://yoast.com/ultimate-guide-to-small-business-seo/#comments
+https://yoast.com/understanding-bounce-rate-google-analytics/
+https://yoast.com/update-or-delete-old-content-on-your-site/
+https://yoast.com/update-or-delete-old-content-on-your-site/#comments
+https://yoast.com/use-content-analysis-yoast-seo/
+https://yoast.com/use-custom-campaigns/
+https://yoast.com/use-focus-keyword-once/
+https://yoast.com/use-social-media/#comments
+https://yoast.com/use-synonyms-and-related-keywords/#comments
+https://yoast.com/user-journey/#comments
+https://yoast.com/user-roles-in-wordpress/
+https://yoast.com/using-images-in-your-blog-post/
+https://yoast.com/using-yoast-seo-make-content-findable/
+https://yoast.com/using-yoast-seo-make-content-findable/#comments
+https://yoast.com/victory-commons/
+https://yoast.com/video-not-showing-search-results/
+https://yoast.com/video-not-showing-search-results/#comments
+https://yoast.com/video-seo-release/#comments
+https://yoast.com/video-sitemap.xml
+https://yoast.com/video/
+https://yoast.com/video/ask-yoast-adding-testimonials/
+https://yoast.com/video/ask-yoast-adding-testimonials/#comments
+https://yoast.com/video/ask-yoast-amp-for-small-business-owners/
+https://yoast.com/video/ask-yoast-changing-your-wordpress-theme/
+https://yoast.com/video/ask-yoast-duplicate-content-issues-on-my-shop/#comments
+https://yoast.com/video/ask-yoast-hiding-images-for-pinterest-in-your-posts/
+https://yoast.com/video/ask-yoast-hiding-images-for-pinterest-in-your-posts/#comments
+https://yoast.com/video/ask-yoast-how-to-use-video-testimonials/
+https://yoast.com/video/ask-yoast-how-to-use-video-testimonials/#comments
+https://yoast.com/video/ask-yoast-importance-of-using-excerpts/
+https://yoast.com/video/ask-yoast-importance-of-using-excerpts/#comments
+https://yoast.com/video/ask-yoast-layered-navigation-links/#comments
+https://yoast.com/video/ask-yoast-meta-descriptions-and-the-excerpt-field/
+https://yoast.com/video/ask-yoast-meta-descriptions-and-the-excerpt-field/#comments
+https://yoast.com/video/ask-yoast-pdfs-on-site/
+https://yoast.com/video/ask-yoast-publishing-other-language-seo/
+https://yoast.com/video/ask-yoast-publishing-other-language-seo/#comments
+https://yoast.com/video/ask-yoast-redirect-to-my-site/
+https://yoast.com/video/ask-yoast-redirecting-domain/
+https://yoast.com/video/ask-yoast-reposting-guest-authored-content/
+https://yoast.com/video/ask-yoast-reposting-guest-authored-content/#comments
+https://yoast.com/video/ask-yoast-sites-sharing-pages/
+https://yoast.com/video/ask-yoast-splitting-products-by-date/
+https://yoast.com/video/noindex-old-posts-that-need-update/
+https://yoast.com/visual-attention/
+https://yoast.com/voice-search/
+https://yoast.com/want-green-bullet-wp-seo/
+https://yoast.com/weekly-seo-recap-2016-2/
+https://yoast.com/weekly-seo-recap-2016-2/#comments
+https://yoast.com/weekly-seo-recap-36/#snippets-ranking
+https://yoast.com/weekly-seo-recap-37/
+https://yoast.com/weekly-seo-recap-39/#comments
+https://yoast.com/weekly-seo-recap-40/
+https://yoast.com/weekly-seo-recap-40/#comments
+https://yoast.com/weekly-seo-recap-42/
+https://yoast.com/weekly-seo-recap-43/
+https://yoast.com/werken-bij/
+https://yoast.com/werken-bij/ 
+https://yoast.com/werken-bij/  
+https://yoast.com/what-are-rich-snippets/
+https://yoast.com/what-are-user-signals/
+https://yoast.com/what-cant-yoast-seo-do-what-should-you-do-yourself/
+https://yoast.com/what-if-people-copy-content/
+https://yoast.com/what-if-people-copy-content/#comments
+https://yoast.com/what-is-a-canonical-url/
+https://yoast.com/what-is-a-cdn/
+https://yoast.com/what-is-a-keyword-strategy/
+https://yoast.com/what-is-a-keyword/
+https://yoast.com/what-is-a-permalink/
+https://yoast.com/what-is-a-redirect/
+https://yoast.com/what-is-a-redirect/#comments
+https://yoast.com/what-is-a-snippet/
+https://yoast.com/what-is-an-xml-sitemap-and-why-should-you-have-one/#comments
+https://yoast.com/what-is-anchor-text/
+https://yoast.com/what-is-content-marketing
+https://yoast.com/what-is-content-marketing/
+https://yoast.com/what-is-content-marketing/#comments
+https://yoast.com/what-is-cornerstone-content/
+https://yoast.com/what-is-cornerstone-content/#comments
+https://yoast.com/what-is-crawlability/
+https://yoast.com/what-is-duplicate-content/
+https://yoast.com/what-is-duplicate-content/#comments
+https://yoast.com/what-is-google-search-console/#comments
+https://yoast.com/what-is-googlebot/
+https://yoast.com/what-is-gutenberg/
+https://yoast.com/what-is-https/
+https://yoast.com/what-is-keyword-stemming/
+https://yoast.com/what-is-link-building/
+https://yoast.com/what-is-local-seo/
+https://yoast.com/what-is-multilingual-seo/
+https://yoast.com/what-is-multilingual-seo/#comments
+https://yoast.com/what-is-onpage-seo/
+https://yoast.com/what-is-page-value-in-google-analytics/
+https://yoast.com/what-is-seo/
+https://yoast.com/what-is-storytelling-and-why-should-you-use-it/
+https://yoast.com/what-is-structured-data/
+https://yoast.com/what-is-technical-seo-aspects-everyone-should-know/
+https://yoast.com/what-is-technical-seo/
+https://yoast.com/what-is-technical-seo/#comments
+https://yoast.com/what-is-user-testing-why-should-you-do-it/
+https://yoast.com/what-is-ux/
+https://yoast.com/what-makes-a-good-website/
+https://yoast.com/what-makes-a-good-website/#comments
+https://yoast.com/what-to-do-if-the-traffic-on-your-blog-is-decreasing/
+https://yoast.com/whats-powering-conversational-search/#comments
+https://yoast.com/whats-the-difference-between-an-h1-heading-and-the-seo-title/
+https://yoast.com/where-did-my-search-console-errors-go/
+https://yoast.com/which-redirect/
+https://yoast.com/why-doesnt-google-index-my-content-properly/
+https://yoast.com/why-is-site-structure-important/
+https://yoast.com/why-use-segments-in-google-analytics/
+https://yoast.com/why-use-yoast-internal-linking/
+https://yoast.com/wordpress-archive-pages/
+https://yoast.com/wordpress-archive-pages/#comments
+https://yoast.com/wordpress-for-beginners/
+https://yoast.com/wordpress-hosting/
+https://yoast.com/wordpress-search/
+https://yoast.com/wordpress-security/
+https://yoast.com/wordpress-seo-1-2/
+https://yoast.com/wordpress-seo-1-2/#comments
+https://yoast.com/wordpress-seo-premium-release/
+https://yoast.com/wordpress-seo/
+https://yoast.com/wordpress-seo/#comments
+https://yoast.com/wordpress-seo/#optimize-posts
+https://yoast.com/wordpress-stats/
+https://yoast.com/wordpress-stats/#comments
+https://yoast.com/wordpress-theme-anatomy/
+https://yoast.com/wordpress/
+https://yoast.com/wordpress/plugins/
+https://yoast.com/wordpress/plugins/all-plugins-all-training-courses/
+https://yoast.com/wordpress/plugins/bitly-shortlinks/
+https://yoast.com/wordpress/plugins/blog-metrics/
+https://yoast.com/wordpress/plugins/clicky/
+https://yoast.com/wordpress/plugins/comment-hacks/
+https://yoast.com/wordpress/plugins/local-seo/
+https://yoast.com/wordpress/plugins/local-seo/  
+https://yoast.com/wordpress/plugins/news-seo/
+https://yoast.com/wordpress/plugins/news-seo/ 
+https://yoast.com/wordpress/plugins/news-seo/  
+https://yoast.com/wordpress/plugins/plugin-subscription/
+https://yoast.com/wordpress/plugins/seo/
+https://yoast.com/wordpress/plugins/seo/ 
+https://yoast.com/wordpress/plugins/seo/  
+https://yoast.com/wordpress/plugins/seo/add-website-google-search-console/
+https://yoast.com/wordpress/plugins/seo/assessments-overview/
+https://yoast.com/wordpress/plugins/seo/connect-search-console-retrieve-crawl-issues/
+https://yoast.com/wordpress/plugins/seo/faq-schema-content-block/
+https://yoast.com/wordpress/plugins/seo/internal-linking/
+https://yoast.com/wordpress/plugins/seo/keyphrase-distribution-check/
+https://yoast.com/wordpress/plugins/seo/redirects-manager/
+https://yoast.com/wordpress/plugins/seo/structured-data-content-blocks/
+https://yoast.com/wordpress/plugins/seo/structured-data/
+https://yoast.com/wordpress/plugins/seo/synonyms-related-word-forms-premium/
+https://yoast.com/wordpress/plugins/seo/xml-sitemaps/
+https://yoast.com/wordpress/plugins/seo/yoast-seo-premium-analysis-glossary/
+https://yoast.com/wordpress/plugins/seo/yoast-seo-premium-analysis-glossary/#function-words
+https://yoast.com/wordpress/plugins/seo/yoast-seo-premium-analysis-glossary/#synonyms
+https://yoast.com/wordpress/plugins/slideshare-2/
+https://yoast.com/wordpress/plugins/video-seo/
+https://yoast.com/wordpress/plugins/video-seo/ 
+https://yoast.com/wordpress/plugins/video-seo/  
+https://yoast.com/wordpress/plugins/video-seo/change-log/
+https://yoast.com/wordpress/plugins/video-seo/faq/
+https://yoast.com/wordpress/plugins/video-seo/how-to/
+https://yoast.com/wordpress/plugins/video-seo/setup/
+https://yoast.com/wordpress/plugins/yoast-news-premium-bundle/
+https://yoast.com/wordpress/plugins/yoast-video-premium-bundle/
+https://yoast.com/wordpress/plugins/yoast-woocommerce-seo/  
+https://yoast.com/writing-blog-creating-clear-blog-post-structure/#order-types
+https://yoast.com/yoast-care-fund/
+https://yoast.com/yoast-care/#comments
+https://yoast.com/yoast-diversity-fund/
+https://yoast.com/yoast-partners/
+https://yoast.com/yoast-seo-11-0/
+https://yoast.com/yoast-seo-11-8/
+https://yoast.com/yoast-seo-12-1/
+https://yoast.com/yoast-seo-12-5-1/
+https://yoast.com/yoast-seo-12-9/
+https://yoast.com/yoast-seo-13-4/
+https://yoast.com/yoast-seo-14-1/
+https://yoast.com/yoast-seo-14-1/#comments
+https://yoast.com/yoast-seo-14-2/
+https://yoast.com/yoast-seo-14-2/#comments
+https://yoast.com/yoast-seo-14-3/ 
+https://yoast.com/yoast-seo-14-3/  
+https://yoast.com/yoast-seo-14-3/#comments
+https://yoast.com/yoast-seo-14-3/#respond
+https://yoast.com/yoast-seo-4-1/
+https://yoast.com/yoast-seo-4-1/#comments
+https://yoast.com/yoast-seo-6-2/
+https://yoast.com/yoast-seo-7-8/
+https://yoast.com/yoast-seo-8-2/
+https://yoast.com/yoast-seo-9-0/
+https://yoast.com/yoast-seo-everywhere/
+https://yoast.com/yoast-seo-hates-my-writing-style/
+https://yoast.com/yoast-seo-hidden-features/
+https://yoast.com/yoast-seo-hidden-features/#comments
+https://yoast.com/yoast-seo-import-export/
+https://yoast.com/yoast-seo-platforms/
+https://yoast.com/yoast-seo-platforms/ 
+https://yoast.com/yoast-seo-platforms/  
+https://yoast.com/yoast-seo-premium-features/
+https://yoast.com/yoast-seo-product-sheet/
+https://yoast.com/yoast-seo-readability-analysis/#comments
+https://yoast.com/yoast-seo-redirect-manager/
+https://yoast.com/yoast-seo-redirects-manager/
+https://yoast.com/yoast-seo-supports-advanced-custom-fields-acf/
+https://yoast.com/yoast-subscriptions/#comments
+https://yoast.com/yoastcon-2017-10-takeaways/
+https://yoast.com/yoastcon/
+https://yoast.com/yoastcon/2015-edition/
+https://yoast.com/yoastcon/2017-edition/
+https://yoast.com/yoastcon/2019-edition/
+https://yoast.com/you-have-to-publish-resources/
+https://yoast.com/youtube-analytics-watch-time/
+https://yoast.com/zero-result-searches-wordpress-google-analytics/
+https://yoast.com/zero-result-searches-wordpress-google-analytics/#comments

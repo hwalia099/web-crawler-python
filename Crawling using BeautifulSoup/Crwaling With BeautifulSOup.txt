@@ -1,0 +1,7 @@
+from urllib.request import urlopen
+#peeps say that beautifulSoup is actually a web crawller but its actually more of a html parser
+#it extracts only those elements which we want from the html page
+from bs4 import BeautifulSoup
+html=urlopen("https://www.wikipedia.org/")
+bsObj=BeautifulSoup(html.read(),'html.parser')
+print(bsObj.title)
